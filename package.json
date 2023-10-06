@@ -1,0 +1,25 @@
+{
+  "name": "variable-base-factoradic",
+  "version": "0.0.1",
+  "description": "Implementation of https://xkcd.com/2835/",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc --noEmit && vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soerface/variable_base_factoradic_js.git"
+  },
+  "keywords": [
+    "xkcd"
+  ],
+  "author": "Sören Wegener",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soerface/variable_base_factoradic_js/issues"
+  },
+  "homepage": "https://github.com/soerface/variable_base_factoradic_js#readme",
+  "devDependencies": {
+    "vitest": "^0.34.6"
+  }
+}
