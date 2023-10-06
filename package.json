@@ -1,6 +1,6 @@
 {
   "name": "variable-base-factoradic",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Implementation of https://xkcd.com/2835/",
   "main": "index.js",
   "scripts": {
