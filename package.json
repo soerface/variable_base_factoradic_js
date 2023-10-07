@@ -1,8 +1,9 @@
 {
   "name": "variable-base-factoradic",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Implementation of https://xkcd.com/2835/",
-  "main": "index.js",
+  "main": "build/index.js",
+  "type": "module",
   "scripts": {
     "test": "tsc --noEmit && vitest run",
     "build": "tsc"
