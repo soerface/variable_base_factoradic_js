@@ -3,6 +3,7 @@ import {fromFactoradic, toFactoradic} from "./index";
 
 describe("convert", () => {
     const xkcdExamples: [number, string][] = [
+        [0, "0"],
         [1, "1"],
         [2, "10"],
         [3, "11"],

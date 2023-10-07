@@ -1,6 +1,6 @@
 {
   "name": "variable-base-factoradic",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Implementation of https://xkcd.com/2835/",
   "main": "build/index.js",
   "type": "module",
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/soerface/variable_base_factoradic_js/issues"
   },
-  "homepage": "https://github.com/soerface/variable_base_factoradic_js#readme",
+  "homepage": "http://soerface.github.io/variable_base_factoradic/",
   "devDependencies": {
     "vitest": "^0.34.6"
   }

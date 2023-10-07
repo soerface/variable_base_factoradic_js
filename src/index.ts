@@ -4,6 +4,9 @@ function divmod(n: number, base: number) {
 
 export function toFactoradic(n: number): string {
     const components: number[] = [];
+    if (n === 0) {
+        return "0";
+    }
     while (n > 0) {
         const base = components.length + 2;
         if (base > 10) {
